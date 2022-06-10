@@ -14,14 +14,17 @@
 
  define("APP_VERSION", 1.0);
 
- define("APP_COMPANY", "TilsonM17");
+ define("APP_COMPANY", "Seu nome");
 
- define("DATA_USER","");
+ # Constates de Base de Ddaos
+ define("DATA_USER",""); //User 
 
- define("DATA_NAME","");
+ define("DATA_NAME",""); // Nome da Base de dados
 
- define("DATA_PASS","");
-  
+ define("DATA_PASS","");// Senha
+
+
+ //Não precisa mecher nesta 
  define("APP_LENGTH",5);
 
 
